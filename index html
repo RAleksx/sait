@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset "UTF-8">
+    <title>Ryazanov</title>
+</head>
+<body>
+    <h1> Ryazanov Aleksey </h1>
+    <hr/>
+    <h2> Что я умею? </h2>
+    <ul>
+        <1i>Спать</1i>
+        <1i>плавать</1i>
+        <1i>кушать</1i>
+    </ul>  
+    <h2>Что я люблю?</h2>
+    <ol> <li>Кушать мак</li></ol>  
+</body>
+</html>
